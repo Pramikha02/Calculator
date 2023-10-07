@@ -33,17 +33,6 @@ Welcome to the Calculator Application! This simple calculator is designed to hel
 
 If you're interested in the development of this calculator application, it was built using [programming language/technology] and [framework/library]. The source code can be found in the [GitHub repository](link_to_repository).
 
-## Feedback and Issues
-
-We value your feedback and want to improve this calculator. If you encounter any issues, have suggestions, or want to report a bug, please contact us at [your_email@example.com].
-
-## License
-
-This calculator application is distributed under the [License Name], which can be found in the LICENSE file.
-
-## Support
-
-If you have any questions or need assistance, please contact our support team at [support_email@example.com].
 
 ## Conclusion
 
